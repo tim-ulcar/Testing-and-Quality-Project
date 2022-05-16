@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="cglib-nodep-3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/aa FRI 2.letnik drugic/TK/vaje/vaje12/EasyMockPrimer/EasyMockPrimer/EasyMockProject/lib/cglib-nodep-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/aa FRI 2.letnik drugic/TK/vaje/vaje12/EasyMockPrimer/EasyMockPrimer/EasyMockProject/lib/easymock-3.3.1-samples.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/aa FRI 2.letnik drugic/TK/vaje/vaje12/EasyMockPrimer/EasyMockPrimer/EasyMockProject/lib/easymock-3.3.1-tests.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/aa FRI 2.letnik drugic/TK/vaje/vaje12/EasyMockPrimer/EasyMockPrimer/EasyMockProject/lib/easymock-3.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/aa FRI 2.letnik drugic/TK/vaje/vaje12/EasyMockPrimer/EasyMockPrimer/EasyMockProject/lib/objenesis-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/aa FRI 2.letnik drugic/TK/vaje/vaje12/EasyMockPrimer/EasyMockPrimer/EasyMockProject/lib/easymock-3.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/aa FRI 2.letnik drugic/TK/vaje/vaje12/EasyMockPrimer/EasyMockPrimer/EasyMockProject/lib/easymock-3.3.1-samples.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/aa FRI 2.letnik drugic/TK/vaje/vaje12/EasyMockPrimer/EasyMockPrimer/EasyMockProject/lib/easymock-3.3.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/aa FRI 2.letnik drugic/TK/vaje/vaje12/EasyMockPrimer/EasyMockPrimer/EasyMockProject/lib/easymock-3.3.1-tests.jar!/" />
+    </SOURCES>
+  </library>
+</component>
